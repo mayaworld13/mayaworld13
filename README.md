@@ -3,6 +3,7 @@
 ![Banner GitHub](https://i.ibb.co/KNR4byJ/mayank-git.png)
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" />
+
 # Hi there, I'm Mayank Sharma 👋 
 
 
