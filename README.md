@@ -1,9 +1,10 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey++there,+I+am+Mayank+Sharma+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Let's+explore+the+world+of+DevOps!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
 
 ![Banner GitHub](https://i.ibb.co/KNR4byJ/mayank-git.png)
+<br>
+<br>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" />
-<br>
 
 # Hi there, I'm Mayank Sharma 👋 
 
